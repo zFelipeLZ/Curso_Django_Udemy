@@ -1,28 +1,29 @@
-Django Commands
-    check
-    compilemessages
-    createcachetable
-    dbshell
-    diffsettings
-    dumpdata
-    flush
-    inspectdb
-    loaddata
-    makemessages
-    makemigrations
-    migrate
-    optimizemigration
-    runserver
-    sendtestemail
-    shell
-    showmigrations
-    sqlflush
-    sqlmigrate
-    sqlsequencereset
-    squashmigrations
-    startapp
-    startproject
-    test
-    testserver
+# Django Commands #
+
+check
+compilemessages
+createcachetable
+dbshell
+diffsettings
+dumpdata
+flush
+inspectdb
+loaddata
+makemessages
+makemigrations
+migrate
+optimizemigration
+runserver
+sendtestemail
+shell
+showmigrations
+sqlflush
+sqlmigrate
+sqlsequencereset
+squashmigrations
+startapp
+startproject
+test
+testserver
 
     
